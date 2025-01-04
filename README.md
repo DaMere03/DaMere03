@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS, Java, & Python
 - 💞️ I’m looking to collaborate on anything. I am very open to new project
 - 📫 How to reach me:
--   Phone Number: 215-303-6008
+-   Phone Number: 267-239-8583
 -   Email: king.damere03@gmail.com
 
 <!---
