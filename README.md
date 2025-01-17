@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @DaMere03
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning ReactJS, Java, & Python
-- 💞️ I’m looking to collaborate on anything. I am very open to new project
+- 👀 I’m proficient in Full Stack Development
+- 🌱 I’m very efficient in ReactJS, Tailwind CSS, SQL, and PHP
+    - I am currently learning Version Control, CI\CD Pipelines, and Cloud Services
+- 💞️ I’m looking to collaborate on anything. I am very open to new projects
+- ☺️ I inspire to work with others and share more of my journey this year.
 - 📫 How to reach me:
--   Phone Number: 267-239-8583
--   Email: king.damere03@gmail.com
+    - Phone Number: 215-239-8583
+    - Email: king.damere03@gmail.com
 
 <!---
 DaMere03/DaMere03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
