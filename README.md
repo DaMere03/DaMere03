@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaMere03
+- 👋 Hi, I’m Damere King
 - 👀 I’m proficient in Full Stack Development
 - 🌱 I’m very efficient in ReactJS, Tailwind CSS, SQL, and PHP
     - I am currently learning Version Control, CI\CD Pipelines, and Cloud Services
