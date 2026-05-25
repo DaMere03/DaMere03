@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything. I am very open to new projects
 - ☺️ I inspire to work with others and share more of my journey this year.
 - 📫 How to reach me:
-    - Phone Number: 215-239-8583
+    - Phone Number: 215-669-6217
     - Email: king.damere03@gmail.com
 
 <!---
